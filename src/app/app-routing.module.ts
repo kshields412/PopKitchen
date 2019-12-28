@@ -6,6 +6,7 @@ import { SearchComponent } from './search/search.component';
 import { NewThisWeekComponent } from './new-this-week/new-this-week.component';
 import { SpotlightComponent } from './spotlight/spotlight.component';
 import { RegisterComponent } from './register/register.component';
+import { ProfileComponent } from './profile/profile.component';
 
 
 const routes: Routes = [
@@ -15,7 +16,8 @@ const routes: Routes = [
   { path: 'search', component: SearchComponent },
   { path: 'new', component: NewThisWeekComponent },
   { path: 'spotlight', component: SpotlightComponent },
-  { path: 'register', component: RegisterComponent }
+  { path: 'register', component: RegisterComponent },
+  { path: 'profile', component: ProfileComponent }
 ];
 
 @NgModule({

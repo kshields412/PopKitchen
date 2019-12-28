@@ -11,6 +11,7 @@ import { SpotlightComponent } from './spotlight/spotlight.component';
 import { NewThisWeekComponent } from './new-this-week/new-this-week.component';
 import { SearchComponent } from './search/search.component';
 import { RegisterComponent } from './register/register.component';
+import { ProfileComponent } from './profile/profile.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import { RegisterComponent } from './register/register.component';
     SpotlightComponent,
     NewThisWeekComponent,
     SearchComponent,
-    RegisterComponent
+    RegisterComponent,
+    ProfileComponent
   ],
   imports: [
     BrowserModule,
