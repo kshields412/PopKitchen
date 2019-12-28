@@ -6,12 +6,22 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
 import { HomePageComponent } from './home-page/home-page.component';
 import {SlideshowModule} from 'ng-simple-slideshow';
+import { LoginComponent } from './login/login.component';
+import { SpotlightComponent } from './spotlight/spotlight.component';
+import { NewThisWeekComponent } from './new-this-week/new-this-week.component';
+import { SearchComponent } from './search/search.component';
+import { RegisterComponent } from './register/register.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
-    HomePageComponent
+    HomePageComponent,
+    LoginComponent,
+    SpotlightComponent,
+    NewThisWeekComponent,
+    SearchComponent,
+    RegisterComponent
   ],
   imports: [
     BrowserModule,

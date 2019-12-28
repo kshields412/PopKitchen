@@ -1,0 +1,27 @@
+.main-logo {
+    font-family: 'Rock Salt', cursive;
+}
+
+.main-logo-middle{
+    height: 120px;
+    width: 120px;
+    margin-top: 40px;
+}
+
+@media (min-width: 992px) {
+    .navbar {
+        height:50px;
+    }
+
+}
+
+@media screen and (max-width: 900px) {
+    .main-logo-middle {
+        margin: 10px 40px 0 0;
+    }
+}
+
+.header{
+    z-index: 100000;
+}
+  
