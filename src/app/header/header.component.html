@@ -1,0 +1,44 @@
+<nav class="navbar navbar-expand navbar-dark bg-dark header">
+    <div class="mx-auto my-2 order-0 order-md-1 position-relative">
+        <a class="mx-auto" href="#">
+            <img class = "rounded-circle main-logo-middle" src="../../assets/PopKitchenLogoFinal.jpg">
+        </a>
+    </div>
+    <div class="navbar-collapse collapse w-100 dual-collapse2 order-2 order-md-2">
+        <ul class="navbar-nav mr-auto text-center head-links">
+            <li class="nav-item">
+                <a class="nav-link" routerLink="/login">Login</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" routerLink="/spotlight">Spotlight</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" routerLink="/search">Search</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" routerLink="/new">New This Week</a>
+            </li>
+        </ul>
+    </div>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".dual-collapse2">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <form class="form-inline float-right">
+        <button class="btn btn-outline-success" type="button">Register</button>
+        <button class="btn btn-outline-success" type="button">Login</button>
+    </form>
+    <div class="btn-group btn-optional">
+            <button type="buttons" class="btn btn-secondary dropdown-toggle dropdown-optional" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              PopKitchen
+            </button>
+            <div class="dropdown-menu dropdown-menu-right options">
+              <button class="dropdown-item" type="button" routerLink="/profile">Profile</button>
+              <button class="dropdown-item" type="button" routerLink="/spotlight">Spotlight</button>
+              <button class="dropdown-item" type="button" routerLink="/new">New This Week</button>
+              <button class="dropdown-item" type="button" routerLink="/settings">Settings</button>
+            </div>
+    </div>
+</nav>
+
+  <link href="https://fonts.googleapis.com/css?family=Rock+Salt&display=swap" rel="stylesheet"> 

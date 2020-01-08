@@ -1,0 +1,20 @@
+export const images: string[] = [
+    '../../assets/juicy-steak.jpg',
+    '../../assets/salmon.jpg',
+    '../../assets/fancy-cocktail.jpg',
+    '../../assets/curry.jpeg',
+    '../../assets/little-cake.jpg',
+    '../../assets/shrimp-bao-buns.jpg',
+    '../../assets/french-toast.jpg',
+    '../../assets/food-truck-tacos-and-burgers.jpg',
+    '../../assets/soup-bowl.jpg',
+    '../../assets/sushi-spread.jpg', 
+    '../../assets/about-titan-craft-cocktails-7.jpg',
+    '../../assets/burger-and-sauce.jpg',
+    '../../assets/Tacos-de-Barbacoa.jpg',
+    '../../assets/chocolate-cake-dessert.jpg',
+    '../../assets/egg-breakfast.jpg',
+    '../../assets/sushi-roll.jpg',
+    '../../assets/asian-soup.jpg',
+    '../../assets/Poke.jpg'
+];

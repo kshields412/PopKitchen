@@ -1,0 +1,48 @@
+.main-logo {
+    font-family: 'Rock Salt', cursive;
+}
+
+.main-logo-middle{
+    height: 200px;
+    width: 200px;
+    margin-top: 100px;
+}
+
+@media (min-width: 992px) {
+    .navbar {
+        height:60px;
+    }
+
+}
+
+.head-links {
+    float: right;
+}
+
+@media screen and (max-width: 900px) {
+    .main-logo-middle {
+        margin: 10px 40px 0 0;
+    }
+}
+
+.header{
+    z-index: 100000;
+}
+
+// .dropdown-optional{
+//     position: absolute;
+//     top: -10px;
+//     right: -1500px;
+    
+// }
+
+// .options{
+//     position: absolute;
+//     top: -10px;
+//     right: -1500px;
+// }
+
+// .btn-optional{
+//     width: 25%;
+// }
+  
