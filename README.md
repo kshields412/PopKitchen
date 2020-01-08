@@ -4,7 +4,7 @@ Follow the following instructions to successfully run this application on your l
 
 ## Cloning This Repository
 
-- Navigate your browser to https://github.com/deltaGPhys/FinanceApp-Client
+- Navigate your browser to https://github.com/kshields412/PopKitchen-Client/
 - Click the green "Clone or Download" button and copy github web URL or password protected SSH key.
 - Open the command line interface.
 - Navigate to the folder on your computer you would like to place the repository.
