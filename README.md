@@ -1,14 +1,28 @@
 # PopKitchen
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
+## Cloning This Repository
+
+Follow the following instructions to successfully run this application on your local machine!
+Cloning This Repository
+
+    Navigate your browser to https://github.com/deltaGPhys/FinanceApp-Client
+    Click the green "Clone or Download" button and copy github web URL or password protected SSH key.
+    Open the command line interface.
+    Navigate to the folder on your computer you would like to place the repository.
+    Type "git clone" and then paste the repository url or SSH key.
+    Navigate into project repository to confirm clone was successful.
+
+
+## Install Bootstrap
+
+This command will install Bootstrap to your angular application to be able to use the Bootstrap components within the angular application.
+
+  `$ npm install --save @ng-bootstrap/ng-bootstrap`
+  `$ npm install bootstrap@4.0.0-alpha.6`
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
 
@@ -26,11 +40,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-Install Bootstrap
 
-This command will install Bootstrap to your angular application to be able to use the Bootstrap components within the angular application.
 
-  $ npm install --save @ng-bootstrap/ng-bootstrap
-
-  $ npm install bootstrap@4.0.0-alpha.6
+This project was generated with [Angular CLI] version 8.3.20.
 
