@@ -1,16 +1,15 @@
 # PopKitchen
 
+Follow the following instructions to successfully run this application on your local machine!
+
 ## Cloning This Repository
 
-Follow the following instructions to successfully run this application on your local machine!
-Cloning This Repository
-
-    Navigate your browser to https://github.com/deltaGPhys/FinanceApp-Client
-    Click the green "Clone or Download" button and copy github web URL or password protected SSH key.
-    Open the command line interface.
-    Navigate to the folder on your computer you would like to place the repository.
-    Type "git clone" and then paste the repository url or SSH key.
-    Navigate into project repository to confirm clone was successful.
+- Navigate your browser to https://github.com/deltaGPhys/FinanceApp-Client
+- Click the green "Clone or Download" button and copy github web URL or password protected SSH key.
+- Open the command line interface.
+- Navigate to the folder on your computer you would like to place the repository.
+- Type `git clone repo-name` and then paste the repository url or SSH key.
+- Navigate into project repository to confirm clone was successful.
 
 
 ## Install Bootstrap
@@ -40,7 +39,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-
+____________________________________________________
 
 This project was generated with [Angular CLI] version 8.3.20.
 
